@@ -1,0 +1,40 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "4989",
+            "description": "Joe Pi\u00f1on on local culture of silence during 50s through 70s about ASARCO\u2019s effects.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "5357",
+            "description": "Joe Pi\u00f1on more on local industrial pressures and media that kept damper on discussions about ASARCO\u2019s effects.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "5469",
+            "description": "Danny Arellano on corporate strategy of keeping managers in dark on what\u2019s going into plant, as set out in 2001.",
+            "thumbnail": "../files/2015/03/Danny-Arellano.png"
+        },
+        {
+            "start": "5590",
+            "description": "Jorge Villalobos on what exactly metallurgists were told, learned about the materials they then worked with.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "6563",
+            "description": "Bill Addington and Jorge Villalobos discuss what was known when about the hazardous waste shipments to the ASARCO plant.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

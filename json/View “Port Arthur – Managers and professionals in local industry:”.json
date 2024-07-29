@@ -1,0 +1,50 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "897",
+            "description": "\u201cElton Gish, chemical engineer at Texaco\u201d\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "951",
+            "description": "\u201cOtis \u201cPat\u201d Higgs, mechanical engineer at Texaco\u201d\n",
+            "thumbnail": "../files/2020/01/Otis-Higgs.png"
+        },
+        {
+            "start": "2023",
+            "description": "\u201cElton Gish summarizes his experience in the Texaco refinery; the smells and pollution there, also srikes\u201d\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "2226",
+            "description": "Elton Gish on big change in how refinery operated environmentally\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "2191",
+            "description": "Elton Gish on the smells from burning acid sludge in a boiler house\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "5897",
+            "description": "\u201cElton Gish on allowable levels of benzene on the docks, in cleaning tanks\u201d\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "6075",
+            "description": "Elton Gish on new process that gets rid of benzene before it goes into gasoline\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

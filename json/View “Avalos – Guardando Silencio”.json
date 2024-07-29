@@ -1,0 +1,25 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "2735",
+            "description": "Luz Helena San\u00edn sobre la respuesta de sus primeros resultados.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "2876",
+            "description": "Luz Helena San\u00edn sobre su estudio de 1997: \u201cEso fue un poco carpetazo\u201d; enfrentamientos en la Secretar\u00eda de Salud y desaf\u00edos a la ciencia por parte de la empresa.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

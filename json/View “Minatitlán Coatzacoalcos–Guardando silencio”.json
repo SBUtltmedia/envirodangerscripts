@@ -1,0 +1,25 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "1204",
+            "description": "Georgina Figueroa",
+            "thumbnail": "../files/2016/11/Georgina-Figueroa-.png"
+        },
+        {
+            "start": "1404",
+            "description": "Georgina Figueroa",
+            "thumbnail": "../files/2016/11/Georgina-Figueroa-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

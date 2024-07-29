@@ -1,0 +1,80 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "218",
+            "description": "\u201cGlenn E. Alexander, certified pediatric nurse practitioner, in public health since 1980:\u201d\n",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "1116",
+            "description": "\u201cJim Sutherland, grew up in Port Arthur; worked there as land manager for Texas Parks and Wildlife\u201d\n",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "1305",
+            "description": "\u201cLes McMahon, civil engineer, worked for Port Arthur and other cities\u201d\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "1855",
+            "description": "\u201cLes McMahon gives \u201c\u201dbroad brush history of Port Arthur\u201d\u201d; pollution from the refineries early on \u201c\u201daccepted as part of the daily life\u201d\u201d\u2026\u201d\u201dhorrific odors\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "4040",
+            "description": "\u201cLes McMahon on the city\u2019s acquisition of a general cargo port, only starting 1964\u201d\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "4196",
+            "description": "Glenn E. Alexander on the potential role of Lamar University in providing the right training for youth to have harbor-related jobs\n",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5391",
+            "description": "\u201cGlenn E. Alexander on what he heard about benzene from stepfather; couldn\u2019t bring overalls with that \u201c\u201dstench\u201d\u201d on it into house\u201d\n",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5505",
+            "description": "Glenn E. Alexander tells of becoming cancer screener for city of Port Arthur in 1986; what their recommendations were for benzene\n",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5636",
+            "description": "Glenn E. Alexander tells of benzene leaks around Port Arthur; patients he then saw\n",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "6224",
+            "description": "Jim Sutherland describes how the petrochemical industry contributed to navigation development of the Port Arthur-area waterways; channelization\n",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "6725",
+            "description": "\u201cJim Sutherland on hurricane levee system \u201c\u201dwhich saved us in Hurricane Ike\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "7015",
+            "description": "Jim Sutherland: more on channelization in the area; making room for tankers\n",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "8040",
+            "description": "Les McMahon on getting school system concerned with local industries\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

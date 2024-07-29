@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7812",
+            "description": "Gonzalo Rodriguez",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "7844",
+            "description": "Gonzalo Rodriguez",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "7939",
+            "description": "Gonzalo Rodriguez",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "1112",
+            "description": "Renato V\u00e1zquez ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "9648",
+            "description": "Renato V\u00e1zquez ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "2241",
+            "description": "Lorenzo Bozada ",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5359",
+            "description": "Lorenzo Bozada ",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "9939",
+            "description": "Maria Perez",
+            "thumbnail": "../files/2016/11/Maria-Perez.png"
+        },
+        {
+            "start": "5608",
+            "description": "Artemio Lopez",
+            "thumbnail": "../files/2016/11/Artemio-Lopez.png"
+        },
+        {
+            "start": "9520",
+            "description": "Rogelio Gil ",
+            "thumbnail": "../files/2016/11/Rogelio-Gil-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

@@ -1,0 +1,30 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "4210",
+            "description": "Fernando Casta\u00f1on  En el medio hospitalario, viene la supervision pero ya se sabe que viene la supervici\u00f3n, \u00bfsi? De repente si no existen camas o \u00e1reas inhabilitadas, de repente aparecen camas, aparece personal",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "4809",
+            "description": "Javier Pulido  tampoco hay en el ciudadano una educaci\u00f3n para preservar su medio ambiente. Osea el, subimos a la sierra y nos damos cuenta de que, bueno, si, ah\u00ed est\u00e1n en la lucha por los derechos humanos y por lo derechos de la mujer, qu\u00e9 bueno que se tiene eso. Pero, en frente de sus casa, en el arroyo que afortunadamente no est\u00e1 tan contaminado, vemos esa cantidad de pl\u00e1sticos tirados, botellas, etc",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "6135",
+            "description": "Francisco Mercado . Es decir, una historia de \u00e9xito dentro de Petr\u00f3leos Mexicanos, as\u00ed lo considero, si. Nosotros, servidor, ha sido el lider del proyecto y director del primer laboratorio de toxicolog\u00eda indistrial, que se encuentra en el Hospital General de Nanchital",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

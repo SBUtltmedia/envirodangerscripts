@@ -1,0 +1,35 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "5140",
+            "description": "Cecilia Valles: \u201cque durante el funcionamiento de la fundidora se estuvieron haciendo todos los cuidados sobre todo a sus trabajadores, eso no nos queda duda\u2026nuestra preocupaci\u00f3n es que \u2026que tenemos que estar conscientes de que el polvo que est\u00e1 ah\u00ed, la tierra que vemos..\u201d",
+            "thumbnail": "../files/2015/08/Cecilia-Valles-Arago%CC%81n.png"
+        },
+        {
+            "start": "5192",
+            "description": "Cecilia Valles sobre los fuertes vientos que difunden esas part\u00edculas; que la contaminaci\u00f3n puede pasar \u201clos sustratos de la tierra y llegar hasta el agua\u201d.",
+            "thumbnail": "../files/2015/08/Cecilia-Valles-Arago%CC%81n.png"
+        },
+        {
+            "start": "5293",
+            "description": "Rosario Delgado traiga el testimonia de la familia Mi\u00f1\u00e1n Pe\u00f1a; que el se\u00f1or muri\u00f3 de c\u00e1ncer de pulm\u00f3n; Carlos Manuel Zald\u00edvar insiste por el contrario.",
+            "thumbnail": "../files/2015/08/Rosario-Delgado.png"
+        },
+        {
+            "start": "5444",
+            "description": "Luis Oscar Rodr\u00edguez dice que Rosario Delgado \u201cno puede comprobar que\u201d el problema en esta familia \u201chaya sido causado por haber vivido en \u00c1valos\u201d; otra discussion.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

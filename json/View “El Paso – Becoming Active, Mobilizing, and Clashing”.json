@@ -1,0 +1,60 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "2030",
+            "description": "Joe Pi\u00f1on talks about his effort to get people to testify against ASARCO\u2019s proposal for Contop project in the late 1980\u2019s, all the opposition they faced.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "2373",
+            "description": "Bill Addington talks about the controversy over the Contop project.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        },
+        {
+            "start": "2525",
+            "description": "Veronica Carbajal discusses importance of late 1990\u2019s EPA\u2019 arrival in town; also of the 2005 ASARCO bankruptcy.",
+            "thumbnail": "../files/2015/03/Veronica-Carbajal.png"
+        },
+        {
+            "start": "2778",
+            "description": "Bill Addington on the importance of Obama\u2019s election in critical decision by EPA to require a new permit.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "2827",
+            "description": "Charlie Rodriguez on the ASARCO bankruptcy; his questions about what went on there.",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "6563",
+            "description": "Bill Addington and Jorge Villalobos discuss what was known when about the hazardous waste shipments to the ASARCO plant, how revealed by media and activists.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        },
+        {
+            "start": "7995",
+            "description": "Charlie Rodriguez on whistle-blower report inside company, how higher-ups decided to incinerate wastes anyway..",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "8170",
+            "description": "Juan Garza on rise of EPA and local Health Dept efforts to address lead in the neighborhoods.",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "8415",
+            "description": "Juan Garza on Get the Lead Out\u2019s effort to get Health Dept testing in homes, unreleased results.",
+            "thumbnail": "../files/2015/03/Juan-Garza.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

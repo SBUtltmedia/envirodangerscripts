@@ -1,0 +1,90 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "1400",
+            "description": "",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "1571",
+            "description": "<hr/>\u00a0\n<p>\u00a0</p>\n",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "2024",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "4274",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Balthazar-Huerta.png"
+        },
+        {
+            "start": "4302",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Veronica-Carbajal.png"
+        },
+        {
+            "start": "5590",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Balthazar-Huerta.png"
+        },
+        {
+            "start": "5155",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "6198",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "6341",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Elvira-Salcido.png"
+        },
+        {
+            "start": "7383",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Vivian-Russell.png"
+        },
+        {
+            "start": "7414",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7502",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Vivian-Russell.png"
+        },
+        {
+            "start": "7538",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7794",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "8105",
+            "description": "\n<hr/>\n",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

@@ -1,0 +1,55 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "3083",
+            "description": "Danny Arellano talks about difficulties communicating between Anglo managers and non-Anglo workforce, changes there, how many injuries not reported, also managers didn\u2019t tell about some dangers, especially hazardous wastes; workers became willing to insist.",
+            "thumbnail": "../files/2015/03/Danny-Arellano.png"
+        },
+        {
+            "start": "3969",
+            "description": "Jorge Villalobos on how those involved in lead industry didn\u2019t know its effects for so long; challenge this seminar poses for today regarding risks.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "4140",
+            "description": "Balthazar Huerta on how little workers would be informed about risks involved with tasks; importance of \u201cchemical\u201d designation in deciding what to avoid.",
+            "thumbnail": "../files/2015/03/Balthazar-Huerta.png"
+        },
+        {
+            "start": "4428",
+            "description": "Juan Garza on his experience growing up in Sunset Heights, pediatrician surveys, pollution from the smelter there; also at UTEP.",
+            "thumbnail": "../files/2015/03/Juan-Garza.png"
+        },
+        {
+            "start": "4606",
+            "description": "Catherine Shupe on growing up in the American colony in Avalos; not knowing about dangers.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "4698",
+            "description": "Jorge Villalobos discusses conditions in early 1970\u2019s; also arrival of EPA and changes at ASARCO.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "4890",
+            "description": "Elvira Salcido talks about what she saw of plant\u2019s smoke from Smeltertown from 1930s.",
+            "thumbnail": "../files/2015/03/Elvira-Salcido.png"
+        },
+        {
+            "start": "7400",
+            "description": "Jorge Villalobos and others discuss lack of knowledge even among earlier managers.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7188",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "9033",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7875",
+            "description": "Gonzalo Rodriguez",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "920",
+            "description": "Renato V\u00e1zquez ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "948",
+            "description": "Renato V\u00e1zquez ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "1019",
+            "description": "Renato V\u00e1zquez ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "1564",
+            "description": "Javier Pulido de Osta ",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "1704",
+            "description": "Javier Pulido de Osta ",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "8432",
+            "description": "Fernado Casta\u00f1on  ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "9481",
+            "description": "Rogelio Gil ",
+            "thumbnail": "../files/2016/11/Rogelio-Gil-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

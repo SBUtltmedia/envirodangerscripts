@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7188",
+            "description": "Francisco Mercado No se cerr\u00f3 ninguna empresa en Estados Unidos productora de cloruro de vinilo o de benceno, y sin embargo si se bajaron los niveles, para que a los trabajadores no les de leucemia",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "9033",
+            "description": "Francisco Mercado no todas las personas se enferman porque en en genes especiales, podemos decir protecci\u00f3n o de asistencia o genes de susceptibilidad \u00bfs\u00ed?",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7875",
+            "description": "Gonzalo Rodriguez no creo que tengamos mucho tiempo de vida. Para 2025 seg\u00fan la UNAM no habr\u00e1 agua \u00bfs\u00ed?",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "920",
+            "description": "Renato V\u00e1zquez  Para 1967 iniciaba sus operaciones Complejo Petroqu\u00edmicos de Pajaritos, y la refiner\u00eda de Mediclam",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "948",
+            "description": "Renato V\u00e1zquez  Hasta los a\u00f1os de 1970 la exclusi\u00f3n territorial de la industria petro qu\u00edmica de Pemex reflej\u00f3 una amplia inspecci\u00f3n geogr\u00e1fica nacional",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "1019",
+            "description": "Renato V\u00e1zquez  Como resultado del auge petrolero durante los a\u00f1os 70 y principios de los 80 se establecieron en la regi\u00f3n sureste de verecruz mas de 20 industrias petroqu\u00edmicas privadas ",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "1564",
+            "description": "Javier Pulido de Osta  En el 92 es cuando explota la planta de Clorados  en los pajaritos yo te pongo en manifiesto muchas cosas muchas irregularidades en la seguridad que se protege particularmente a los trabajadores de los contratistas ",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "1704",
+            "description": "Javier Pulido de Osta  Otro de los aspectos que se ve es el gran potencial econ\u00f3mico que siempre ha tenido Pemex, hoy en d\u00eda lo tiene tambi\u00e9n y nos viene con el cuento de que no, pero eso es un cuento para quienes conocemos las cifras a fondo  ",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "8432",
+            "description": "Fernado Casta\u00f1on   Los desechos se vierten afuera, no adentro, el de adentro est\u00e1 protegido tiene lentes, tiene m\u00e1scaras, tiene equipo especial para no ser contaminado pero el de afuera, el de afuera \u00bfqui\u00e9n lo estudia? \u00bfQui\u00e9n lo analiza?",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "9481",
+            "description": "Rogelio Gil  Pero m\u00e1s que falta de educaci\u00f3n finalmente, falta de autoridad en este pa\u00eds, no hay autoridad, porque si hubiera autoridad en cuanto estuvieran haciendo las cosas mal hechas y los detuvieran y viera, no hubiera corrupci\u00f3n, no hubiera impunidad, no hubiera nada de eso",
+            "thumbnail": "../files/2016/11/Rogelio-Gil-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

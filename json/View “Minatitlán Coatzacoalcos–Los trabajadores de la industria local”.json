@@ -1,0 +1,35 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "3324",
+            "description": "Juan Luis Francisco",
+            "thumbnail": "../files/2016/11/Juan-Luis-Francisco.png"
+        },
+        {
+            "start": "3429",
+            "description": "Juan Luis Francisco",
+            "thumbnail": "../files/2016/11/Juan-Luis-Francisco.png"
+        },
+        {
+            "start": "3520",
+            "description": "Aquilino Romero ",
+            "thumbnail": "../files/2016/11/Aquilino-Romero-.png"
+        },
+        {
+            "start": "3546",
+            "description": "Aquilino Romero ",
+            "thumbnail": "../files/2016/11/Aquilino-Romero-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

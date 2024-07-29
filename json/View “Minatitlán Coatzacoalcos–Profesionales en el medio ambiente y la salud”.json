@@ -1,0 +1,30 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "4210",
+            "description": "Fernando Casta\u00f1on ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "4809",
+            "description": "Javier Pulido ",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "6135",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

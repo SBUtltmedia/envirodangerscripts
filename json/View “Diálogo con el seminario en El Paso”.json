@@ -1,0 +1,50 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "7003",
+            "description": "Testigos de El Paso, traducido de Santiago: Catherine Wilson Shupe sobre su tiempo como ni\u00f1o en Avalos.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7216",
+            "description": "Testigos de El Paso, traducido de Santiago: el ingeniero Jorge Villalobos compara la contaminaci\u00f3n en la planta de Avalos con el tabaquismo.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "7600",
+            "description": "Testigos de El Paso, traducido de Santiago: el ex-ASARCO trabajado Daniel Arellano: \u201cnos daban una hebilla de cintur\u00f3n de premio por no tener accidentes y si alguien se accidentaba la gente le reclamaba y por eso la gente trataba de no accidentarse y no reportaban accidentes.\u201d",
+            "thumbnail": "../files/2015/03/Danny-Arellano.png"
+        },
+        {
+            "start": "7866",
+            "description": "Testigos de El Paso, traducido de Santiago: Joe Pi\u00f1on, hijo de trabajador de ASARCO y farmac\u00e9utico local, sobre los trabajadores emplomados, su oposici\u00f3n a una renovacion de la planta.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "8114",
+            "description": "Luis Santacruz Aranda: los comentarios favorables no quiere decir que haya trabajdores or ex-trabajadores con otras experiencias; \u201cno quiere decir que la planta haya sido un paraiso\u2026\u201d",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "10038",
+            "description": "Pregunta de El Paso: si ustedes saben si en alg\u00fan momento aqu\u00ed se quemaron desechos t\u00f3xicos\u2026respuestas de Luis Oscar Rodr\u00edguez Andriani, Ernesto Mart\u00ednez, Carlos Manuel Zald\u00edvar P\u00e9rez, Arturo Lim\u00f3n.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "10295",
+            "description": "PPregunta de El Paso: \u00bfComo se explican que haya tanta diferencia entre uno y otro? Respuestas de Jesus Antonio Soto, Ernesto Mart\u00ednez, Luis Oscar Rodr\u00edguez Andriani, Carlos Manuel Zald\u00edvar P\u00e9rez.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

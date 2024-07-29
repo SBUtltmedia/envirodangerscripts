@@ -1,0 +1,30 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "7576",
+            "description": "Carolyn Thibodeaux on how those in power took advantage of people\u2019s lack of knowledge\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "7857",
+            "description": "Hilton Kelley and Carolyn Thibodeaux on current effort to appoint an Exxon Mobil exec as head of EPA\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7987",
+            "description": "Hilton Kelley and Mickey Breaux on how both EPA\u2019s and OSHA\u2019s hands tied in Bush administration\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

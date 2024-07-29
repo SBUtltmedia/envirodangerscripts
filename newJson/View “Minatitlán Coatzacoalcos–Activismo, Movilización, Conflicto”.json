@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7812",
+            "description": "Gonzalo Rodriguez \u00c9l me debe que hace un rato que escuchaba que la sociedad civil la tenemos que organizar, muy importante",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "7844",
+            "description": "Gonzalo Rodriguez Para ir a exigirle a los senadores, a los diputados para que esto, hay que decirlo  en la legislaci\u00f3n bien y vigilarlo nosotros como ciudadanos",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "7939",
+            "description": "Gonzalo Rodriguez y juro que si nos organizamos bien, vamos a dar la batalla y con lo t\u00e9cnico, con lo, con lo pro con lo proteccionista que hay oiga, \u00a1vamos! Yo Nosotros hemos dicho como organizaci\u00f3n nosotros ponemos que la empresa que la industria produzca pero que lo haga decente, bien",
+            "thumbnail": "../files/2016/11/Gonzalo-Rodriguez.png"
+        },
+        {
+            "start": "1112",
+            "description": "Renato V\u00e1zquez  Ser\u00e1 hasta que tengamos conciencia plena de que es cada cosa y cada funci\u00f3n cuando sentemos y tengamos   a los impactos adecuados para la vivienda y para los espacios laborales, de otra manera seguiremos sufriendo las consecuencias",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "9648",
+            "description": "Renato V\u00e1zquez  y enfoquemos nuestra acci\u00f3n a resolver los problemas. Hay aqu\u00ed en esta reuni\u00f3n tres productos que podemos aprovechar, uno a la vista el   centro toxicol\u00f3gico del doctor Mercado, yo le pedir\u00eda que si puede fijar fecha, hora y lugar de reuni\u00f3n os, una segunda, una reuni\u00f3n o una tipo de celebraci\u00f3n entre los asistentes que puedan impulsar iniciativas respecto al problema, y tres, si el Doctor Sellers quiere  quiere compartir su directorio para que se lo facilite ese trabajo",
+            "thumbnail": "../files/2016/11/Renato-Vaa%CC%81zquez-.png"
+        },
+        {
+            "start": "2241",
+            "description": "Lorenzo Bozada  sin embargo parece ser que en este pa\u00eds la primac\u00eda de la vida es el desarrollo industrial",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5359",
+            "description": "Lorenzo Bozada  hay otras  alternativas para Minatitl\u00e1n, por ejemplo, est\u00e1 el municipio de Uxpanapa, con toda su, su, su probabilidad de, poder jalar el agua del municipio de Uxpanapa",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "9939",
+            "description": "Maria Perez  Quisiera, en parte pues, yo creo que para poder concluir tenemos que empezar cada uno por su casa, \u00bfs\u00ed?",
+            "thumbnail": "../files/2016/11/Maria-Perez.png"
+        },
+        {
+            "start": "5608",
+            "description": "Artemio Lopez Entonces falta conciencia ciudadana. Falta que las autoridades se pongan las pilas. No es un ejercicio de 3 o 4 a\u00f1os. tiene que verse eso al futuro",
+            "thumbnail": "../files/2016/11/Artemio-Lopez.png"
+        },
+        {
+            "start": "9520",
+            "description": "Rogelio Gil  meta las manos bueno ya se acab\u00f3 aqu\u00ed como es posible que venga a, a robarnos y a quitarnos lo poquito que va existiendo, a ratos, en la educaci\u00f3n, la apat\u00eda de un pueblo, deja que haga que haga y deshagan ",
+            "thumbnail": "../files/2016/11/Rogelio-Gil-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

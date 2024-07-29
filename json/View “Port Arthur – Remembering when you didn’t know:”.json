@@ -1,0 +1,35 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "1855",
+            "description": "\u201cLes McMahon gives \u201c\u201dbroad brush history of Port Arthur\u201d\u201d; pollution from the refineries early on \u201c\u201daccepted as part of the daily life\u201d\u201d\u2026\u201d\u201dhorrific odors\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "2191",
+            "description": "Elton Gish on the smells from burning acid sludge in a boiler house\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "6017",
+            "description": "Mickey Breaux and others on how you used to wash your hands with benzene\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7576",
+            "description": "Carolyn Thibodeaux on how those in power took advantage of people\u2019s lack of knowledge\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

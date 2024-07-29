@@ -1,0 +1,35 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "3324",
+            "description": "Juan Luis Francisco Entonces nosotros hemos invitado ahora si a funcionarios de Pemex, y si nos han visitado, pero este, qu\u00e9 pasa, cuando llegan all\u00e1 ahora si se ve ahora si como est\u00e1n funcionando las plantas cuando no van ellos, y cuando van ellos le bajan, le cierran",
+            "thumbnail": "../files/2016/11/Juan-Luis-Francisco.png"
+        },
+        {
+            "start": "3429",
+            "description": "Juan Luis Francisco Cuando hay aire, el mismo aire, como nosotros vivimos en frente, levanta un polvito que si tienen, ahora si, las amas de casa tendida su ropa, todo se pega. Los pozos, si no los tapas, vas y encuentras ahora s\u00ed como una nata negra",
+            "thumbnail": "../files/2016/11/Juan-Luis-Francisco.png"
+        },
+        {
+            "start": "3520",
+            "description": "Aquilino Romero  yo escuche que  hace rato usted coment\u00f3 que usted dec\u00eda que la refiner\u00eda no se pod\u00eda cerrar, porque se morir\u00edan de hambre un resto de trabajadores.",
+            "thumbnail": "../files/2016/11/Aquilino-Romero-.png"
+        },
+        {
+            "start": "3546",
+            "description": "Aquilino Romero  Nosotros no vivimos de una empresa, nosotros somos pescadores, somos campesinos, eh",
+            "thumbnail": "../files/2016/11/Aquilino-Romero-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

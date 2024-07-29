@@ -1,0 +1,110 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "63",
+            "description": "\u201cMickey Breaux, oil and steel worker at Texaco for 26 years and OCAW/PACE (union) staff\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "146",
+            "description": "\u201cRichard \u201cHoot\u201d Landry,  oil worker for 43 years, Texaco; PACE union representative\u201d\n",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "111",
+            "description": "\u201cNelson Edgerly, worked at Texaco 43 years, also union rep. for local 4-23\u201d\n",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "1729",
+            "description": "\u201cNelson Edgerly on how early on, diplomas from Lincoln (the black high school) were not accepted by Texaco \u201c\u201das an appropriate diploma,\u201d\u201d so blacks had to take an additional test.\u201d\n",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "2303",
+            "description": "\u201cNelson Edgerly on the operation of \u201c\u201dvery dangerous\u201d\u201d stills on the west side\u201d\n",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "2382",
+            "description": "\u201cMickey Breaux on the success and growth of oil jobs and unions in the 1950s and 60s; follow ed by downsizing and layoffs, in the course of modernizing\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "2744",
+            "description": "Mickey Breaux on his experiences with steel workers union\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "3368",
+            "description": "Mickey Breaux on how sulfur recovery plants to reduce emissions now actually make money\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "3696",
+            "description": "Mickey Breaux on the many temporary contractors working at Motiva and Valero\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4494",
+            "description": "\u201cMickey Breaux on how many of the ships coming through Port Arthur are \u201c\u201dforeign flagged\u201d\u201d; few local job opportunities\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4585",
+            "description": "\u201cMickey Breaux on how \u201c\u201dtrickle down\u201d\u201d business development used to be true, but no longer; it\u2019s \u201c\u201dtrickle on\u201d\u201d in business people\u2019s pockets\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4651",
+            "description": "Interchange between Mickey Breaux and Hilton Kelley on global markets\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4753",
+            "description": "\u201cRichard \u201cHoot\u201d Landry on companies\u2019 fault for Port Arthur\u2019s economic troubles; going back to 80s layoffs\u201d\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "5863",
+            "description": "\u201cMickey Breaux on smell, exposure levels of benzene and related chemicals\u201d\n",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "5928",
+            "description": "\u201cMickey Breaux on how it was only in mid-70s that \u201c\u201dthey ever actually mandated you have to limit exposures\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5995",
+            "description": "Hilton Kelley and Mickey Breaux on how long it took EPA to get involved; how reluctant state officials were\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "6017",
+            "description": "Mickey Breaux and others on how you used to wash your hands with benzene\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7951",
+            "description": "Mickey Breaux on how he was active in 1980 in both environmental and labor issues\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7987",
+            "description": "Hilton Kelley and Mickey Breaux on how both EPA\u2019s and OSHA\u2019s hands tied in Bush administration\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

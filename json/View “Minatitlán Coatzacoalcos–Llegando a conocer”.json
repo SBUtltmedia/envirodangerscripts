@@ -1,0 +1,85 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7233",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7220",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7283",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7331",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "8988",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "9205",
+            "description": "Francisco Mercado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "1558",
+            "description": "Javier Pulido Osta",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "2260",
+            "description": "Maria Perez",
+            "thumbnail": "../files/2016/11/Maria-Perez.png"
+        },
+        {
+            "start": "5062",
+            "description": "Lorenzo Bozada",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5235",
+            "description": "Lorenzo Bozadaz",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5764",
+            "description": "Lorenzo Bozada",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "7614",
+            "description": "Xochitl Cisneros",
+            "thumbnail": "../files/2016/11/Xochitl-Cisneros.png"
+        },
+        {
+            "start": "8244",
+            "description": "Fernado Casta\u00f1on ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "8288",
+            "description": "Fernado Casta\u00f1on ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

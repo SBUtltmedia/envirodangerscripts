@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "3481",
+            "description": "Frank Attaguilo talks about the end to having separate showers for Anglo and Mexican/Latino workers; conflicts.",
+            "thumbnail": "../files/2015/03/Frank-Attaguillo.png"
+        },
+        {
+            "start": "3560",
+            "description": "Charlie Rodriguez about changing education levels, slowly more English speaking workforce as grounds for fighting back.",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "7502",
+            "description": "Catherine Wilson-Shupe, Jorge Villalobos, Joe Pi\u00f1on, Jose Manuel Escobedo, and Mario Navarez on company and others such as Landrigan who knew, came to know about lead\u2019s dangers early on.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7794",
+            "description": "Mario Navarez and Chris Sellers on experiencing mental effects from lead.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "7940",
+            "description": "Charlie Rodriguez on how workers effectively exposed to much higher levels of lead and arsenic because of equipment.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "7995",
+            "description": "Charlie Rodriguez on whistle-blower report inside company, how higher-ups decided to incinerate wastes anyway.",
+            "thumbnail": "../files/2015/08/Jose-Manuel-Escobedo.png"
+        },
+        {
+            "start": "8566",
+            "description": "Mario Navarez on the CONTOP technology, why he thinks it was actually introduced to incinerate wastes.",
+            "thumbnail": "../files/2015/08/Mario-Navarez.png"
+        },
+        {
+            "start": "8648",
+            "description": "Mario Navarez and Frank Attaguilo on blood monitoring and experiences of lead poisoning in the workplace.",
+            "thumbnail": "../files/2015/08/Mario-Navarez.png"
+        },
+        {
+            "start": "8886",
+            "description": "Frank Attaguilo and Jorge Villalobos on where the machinery of the El Paso Smelter went when it shut down.",
+            "thumbnail": "../files/2015/03/Chris-Sellers.png"
+        },
+        {
+            "start": "9694",
+            "description": "Charlie Rodriguez, Catherine Wilson-Shupe, and Jorge Villalobos on water pollution and use by smelters they know.",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

@@ -1,0 +1,485 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "2303",
+            "description": "",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "3200",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "5336",
+            "description": "",
+            "thumbnail": "../files/2020/01/Chris-Sellers.png"
+        },
+        {
+            "start": "5391",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5505",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5636",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5863",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5897",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "5928",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5995",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "6075",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "1855",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "2191",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "6017",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "7576",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7576",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "7857",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "7987",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "1954",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "2023",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "2382",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "2744",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "3002",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "3180",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "3271",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "3368",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "4753",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7743",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7951",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "897",
+            "description": "",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "951",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "2023",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "2226",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "2191",
+            "description": "",
+            "thumbnail": "../files/2020/01/Otis-Higgs.png"
+        },
+        {
+            "start": "5897",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "6075",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "63",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "146",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "111",
+            "description": "",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "1729",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "2303",
+            "description": "",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "2382",
+            "description": "",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "2744",
+            "description": "",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "3368",
+            "description": "",
+            "thumbnail": "../files/2020/01/Nelson-Edgerly.png"
+        },
+        {
+            "start": "3696",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4494",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4585",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4651",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4753",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5863",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5928",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "5995",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "6017",
+            "description": "",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "7951",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7987",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "31",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "388",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "642",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "996",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "6965",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7576",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7857",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "218",
+            "description": "",
+            "thumbnail": "../files/2020/01/Michelle-Honey-Hamilton.png"
+        },
+        {
+            "start": "1116",
+            "description": "",
+            "thumbnail": "../files/2020/01/Terry-Lynn-Hamilton.png"
+        },
+        {
+            "start": "1305",
+            "description": "",
+            "thumbnail": "../files/2020/01/Laverne-McMillan.png"
+        },
+        {
+            "start": "1855",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "4040",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "4196",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "5391",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "5505",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "5636",
+            "description": "",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "6224",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "6725",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "7015",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "8040",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "1400",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "3002",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "3002",
+            "description": "",
+            "thumbnail": "../files/2020/01/Glenn-E.-Alexander.png"
+        },
+        {
+            "start": "3180",
+            "description": "",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "3271",
+            "description": "",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "3853",
+            "description": "",
+            "thumbnail": "../files/2020/01/Jim-Sutherland.png"
+        },
+        {
+            "start": "4322",
+            "description": "",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "4651",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7743",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7857",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7987",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "336",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3462",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3760",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "4088",
+            "description": "",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4359",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7238",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7385",
+            "description": "",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "8153",
+            "description": "",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

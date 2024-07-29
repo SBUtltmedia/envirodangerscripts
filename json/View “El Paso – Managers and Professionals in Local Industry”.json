@@ -1,0 +1,90 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "3606",
+            "description": "Jorge Villalobos talks about being first Mexican metallurgist in El Paso plant.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "3717",
+            "description": "Jorge Villalobos asks about what\u2019s going to happen when we shut down all risky industries in US; how these migrating elsewhere where they are less equipped to handle dangers.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "3767",
+            "description": "Exchange between Jorge Villalobos and Joe Pi\u00f1on over risks of technologies, pharmacy vs lead and other industrial risks; Pinon mentions Port Arthur denial of permit.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "4697",
+            "description": "Jorge Villalobos on failures and resulting contamination from ASARCO plant in Chihuahua, early 70s.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "5797",
+            "description": "Jorge Villalobos asked by Juan Garza about blending baghouse dust with other smelters\u2019 materials, talks about shutdown of Tacoma smelter in which he was involved, arsenic; failure of transfer of safer technology to San Luis Potosi smelter.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "6005",
+            "description": "Juan Garza asks Jorge Villalobos about who made decisions about what materials blended at Encycle; not necessarily at level of plant manager.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "6999",
+            "description": "Charlie Rodriguez on what their research shows about which managers knew about the hazardous waste shipments.",
+            "thumbnail": "../files/2015/03/Juan-Garza.png"
+        },
+        {
+            "start": "7100",
+            "description": "Jorge Villalobos again on what he did and knew about over 1990\u2019s, how didn\u2019t know about the hazardous waste shipments.",
+            "thumbnail": "../files/2015/03/Juan-Garza.png"
+        },
+        {
+            "start": "7400",
+            "description": "Jorge Villalobos and others discuss lack of knowledge even among earlier managers.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "7502",
+            "description": "Catherine Wilson-Shupe, Jorge Villalobos, Joe Pi\u00f1on, Jose Manuel Escobedo, and Mario Navarez on company and others such as Landrigan who knew, came to know about lead\u2019s dangers early on.",
+            "thumbnail": "../files/2015/03/Charlie-Rodriguez.png"
+        },
+        {
+            "start": "8886",
+            "description": "Frank Attaguillo and Jorge Villalobos on where the machinery of the El Paso Smelter went when it shut down.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "9088",
+            "description": "Jorge Villalobos along with Charlie Rodriguez and Catherine Wilson-Shupe on different kinds of technologies in El Paso at different times, also comparisons with Chihuahua.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "9455",
+            "description": "Jorge Villalobos with Chris Sellers, and Joe Pi\u00f1on on implications of technological differences for pollution.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "9550",
+            "description": "Jorge Villalobos with Juan Garza on electrostatic precipitators.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "9694",
+            "description": "Charlie Rodriguez, Catherine Wilson-Shupe, and Jorge Villalobos on water pollution and use by smelters they know.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

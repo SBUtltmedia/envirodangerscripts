@@ -1,0 +1,50 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "31",
+            "description": "Carolyn Thibodeaux librarian at Port Arthur Public\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "388",
+            "description": "\u201cMichelle Honey Hamilton, long time resident of Port Arthur; father worked for Texaco\u201d\n",
+            "thumbnail": "../files/2020/01/Michelle-Honey-Hamilton.png"
+        },
+        {
+            "start": "642",
+            "description": "\u201cTerry Lynn Hamilton, long time resident of Port Arthur; worked on docks and in police department\u201d\n",
+            "thumbnail": "../files/2020/01/Terry-Lynn-Hamilton.png"
+        },
+        {
+            "start": "996",
+            "description": "\u201cLaverne McMillan, mathematics teacher in public schools and Lamar College, Port Arthur\u201d\n",
+            "thumbnail": "../files/2020/01/Laverne-McMillan.png"
+        },
+        {
+            "start": "6965",
+            "description": "Carolyn Thibodeaux on her experience in the wind industry\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "7576",
+            "description": "Carolyn Thibodeaux on how those in power took advantage of people\u2019s lack of knowledge\n",
+            "thumbnail": "../files/2020/01/Carolyn-Thibodeaux.png"
+        },
+        {
+            "start": "7857",
+            "description": "Hilton Kelley and Carolyn Thibodeaux on current effort to appoint an Exxon Mobil exec as head of EPA\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

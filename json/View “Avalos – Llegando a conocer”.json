@@ -1,0 +1,150 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "1303",
+            "description": "Luz Helena San\u00edn, Luis Oscar Rodr\u00edguez y Edna Rico sobre si los resultados de San\u00edn se hicieron p\u00fablicos.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "1920",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201cA m\u00ed me cans\u00e9 creo que alguien dijo que nuestros hijos o a en Rancher\u00edas, hay unos contaminados por plomo\u201d; otro sobre tratamiento de plomo en la sangre de los trabajadores; quando las familias de Villa Ju\u00e1rez fueron las que empezaron a protestar que sus familias estaban contaminadas de zinc; porque la planta cerrada.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "2764",
+            "description": "Luz Helena San\u00edn sobre el inicio de la primera estudio sobre los niveles de contaminaci\u00f3n en 1997.",
+            "thumbnail": "../files/2015/08/Edna-Rico-Escobar.png"
+        },
+        {
+            "start": "2820",
+            "description": "Luz Helena San\u00edn: \u201clos resultados [de 1997] eran muy impresionantes, es decir: un porcentaje muy alto en los ni\u00f1os estaba con niveles muy altos\u2026\u201d",
+            "thumbnail": "../files/2015/08/Ezequiel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "2864",
+            "description": "Luz Helena San\u00edn sobre los resultados de 1997: \u201chab\u00eda m\u00e1s o menos una corte de 600 ni\u00f1os que iban a salir con da\u00f1o neurol\u00f3gico\u201d .",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "2957",
+            "description": "Luz Helena San\u00edn sobre los conocimientos recientes sobre los efectos del plomo en los ni\u00f1os y las madres; que en 2004 la norma de los ni\u00f1os en M\u00e9xico estaba 25 microgramos por decilitro, pero \u201cde hecho hoy se compone de 2\u201d.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3220",
+            "description": "Luz Helena San\u00edn sobre la falta de viviendas en la zona 0\u2013el m\u00e1s cercano a la fundici\u00f3n de Avalos\u2013en 1997 ; en comparaci\u00f3n con \u201cmiles de casas\u201d que hab\u00edan aparecido all\u00e1 por 2004 en esta zona de la exposici\u00f3n m\u00e1s pesada.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3276",
+            "description": "Luz Helena San\u00edn: \u201cera una emergencia\u201d; compara sus conclusiones a las que se encuentran en la d\u00e9cada de 1970 en Ciudad Ju\u00e1rez desde la fundici\u00f3n de ASARCO all\u00ed, tambi\u00e9n la remediaci\u00f3n.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3461",
+            "description": "Luz Helena San\u00edn: \u201cpor inferencia por los datos de exceso en este momento se estima que al menos 500 ni\u00f1os en la zona tienen l\u00edmites superiores y de ellos 170 tendr\u00e1n da\u00f1o neurol\u00f3gico\u201d.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3645",
+            "description": "Luz Helena San\u00edn sobre un evaluaci\u00f3n en el 2006 de una collegia: \u201clos valores segu\u00edan alt\u00edsimos\u201d.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3787",
+            "description": "Jes\u00fas Antonio Soto sobre la principios de la previsi\u00f3n de la contaminaci\u00f3n por la empresa, por qu\u00e9 compraron la tierra circundante.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3809",
+            "description": "Jes\u00fas Antonio Soto: \u201cyo no tengo esa contaminaci\u00f3n\u2026\u201d.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "3821",
+            "description": "Jes\u00fas Antonio Soto sobre la gente que \u201cse quiso meter que estaban emplomados para sacarle un dinero a la empresa\u201d; cuando la empresa fue cerrando, trat\u00f3 de comprar, porque quer\u00edan ser indemnizado; 1990 o 1989.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4560",
+            "description": "Jes\u00fas Antonio Soto: \u201cestoy muy orgulloso de vivir\u2026aqu\u00ed, a mi me toc\u00f3 \u00c1valos en su apojeo\u201d.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4033",
+            "description": "Jes\u00fas Antonio Soto: \u201cme da tristeza ahora que se diga, \u00c1valos es..algo feo para la comunidad..\u201d.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4112",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cmucho de [los trabajadores] que llegaron a presentar s\u00edntomas de \u2026plomo\u2026lo malo, eran porque no se lavaban las manos,\u201d etc..",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4148",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cLuego, no fue nunca a los niveles que estan escuchando\u201d; el monitoreo de las \u00e1reas en las que pod\u00eda haber m\u00e1s plomo, los trabajodores que pod\u00edan presentar s\u00edntomas.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4610",
+            "description": "Carlos Manuel Zald\u00edvar viv\u00ed en la colonia 600 metros de la chiminea; ejemplo \u201cmuy significativo\u201d de un trabajador Rafael Ramos que \u201cdur\u00f3 40 a\u00f1os\u201d en la casa de sacos, trabajo con muchos expuestos toxicos.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4713",
+            "description": "Carlos Manuel Zald\u00edvar pide m\u00e1s pruebas de la contaminaci\u00f3n y sus efectos.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4745",
+            "description": "Carlos Manuel Zald\u00edvar sobre el equipo y el an\u00e1lisis en la planta para proteger oficinistas tambi\u00e9n; \u201cCu\u00e1ntas veces jugamos nosotros ah\u00ed [en los campos deportivos], pos no no nos ca\u00edmos por la contaminaci\u00f3n\u201d.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4863",
+            "description": "Luz Helena San\u00edn: la discusi\u00f3n que precede demonstra \u201cc\u00f3mo ha ido evolucionando la cuesti\u00f3n de salud ambiental eh la empresa cuidando mucho a los trabajadores\u201d.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4929",
+            "description": "Carlos Manuel Zald\u00edvar: a pesar de la contaminaci\u00f3n \u201cvivimos todos [en la vejez], yo estuve con los americanos y muy cercano a los americanos. \u00bfUstedes creen que no hac\u00edan este tipo de de an\u00e1lisis? \u201c.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "5020",
+            "description": "Luis Oscar Rodr\u00edguez relata una historia de una esposa del gerente que pregunt\u00f3 a su marido sobre la contaminaci\u00f3n que ven\u00eda de la chiminea.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "5812",
+            "description": "Luis Guillermo Maldonado Ortega: \u201cnosotros respetamos sus estudios, sus conocimientos y todo pero, tambien no satanizar de mas porque asi como que se estan yendo unos porcentajes muy altos de contaminacion\u2026pero no se puede decir que sean una cosa fatal\u201d.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "5868",
+            "description": "Ernest Martinez no quiere \u201cdefender a la empresa o atacaros a ustedes de ninguna manera\u201d pero \u201cporque hay personas de 90 a\u00f1os y hasta de 93 sobrevivientes gente que trabaj\u00f3 precisamente asi como el o como ellos\u2026\u201d.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "5996",
+            "description": "Jes\u00fas Antonio Soto cuenta mas sobre los puntos de muestro de la empresa, tambien el gobierno, \u201cy pues all\u00ed va si estaba muy alta la contaminaci\u00f3n, pues los multaban entonces tambien la empresa pues decia no pues una multa muy buena que les ponian\u2026\u201d; la variedad de respuestas a la contaminaci\u00f3n.",
+            "thumbnail": "../files/2015/08/Luis-Guillermo-Maldonado-Ortega.png"
+        },
+        {
+            "start": "6551",
+            "description": "Cambio en los niveles de plomo que se consideraban \u201cpermisibles\u201d cuentado de Myrna Santiago.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

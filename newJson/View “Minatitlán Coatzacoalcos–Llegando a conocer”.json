@@ -1,0 +1,85 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "7233",
+            "description": "Francisco Mercado Todav\u00eda en los 90s se descubri\u00f3 que hay algo que se llama en toxicolog\u00eda efectos estoc\u00e1sticos probabil\u00edsticos, es decir, no hay concentraci\u00f3n segura",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7220",
+            "description": "Francisco Mercado Hay muchos tipos de leucemia y subtipos patol\u00f3gicos, pero la que les da a los trabajadores es leucemia mielobl\u00e1stica aguda",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7283",
+            "description": "Francisco Mercado la raza de bronce, propone el doble de 0.5 ppm. En M\u00e9xico el l\u00edmite m\u00e1ximo permisible es 1 ppm. Si. \u00bfPor qu\u00e9? Somos la raza de bronce, aguantamos m\u00e1s",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "7331",
+            "description": "Francisco Mercado otros productos qu\u00edmicos, como por ejemplo el formaldehido subi\u00f3 de categor\u00eda, ese es cancer\u00edgeno humano confirmado",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "8988",
+            "description": "Francisco Mercado ahora en cuanto a las leucemias, miren ustedes, hay muchos tipos histol\u00f3gicos de leucemias y los causantes de las leucemias pueden ser: benceno, pero no necesariamente el de origen industrial, el tabaco, el humo ambiental, tabaco, el tabaquismo y el benceno",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "9205",
+            "description": "Francisco Mercado No todas las leucemias tambi\u00e9n pueden pueden achatarse al benceno hay leucemias que no son originadas por el benceno, son otro tipo de factores incluso de mismos factores gen\u00e9ticos.",
+            "thumbnail": "../files/2016/11/Francisco-Mercado.png"
+        },
+        {
+            "start": "1558",
+            "description": "Javier Pulido Osta Creo que efectivamente en el 92 es un parteaguas, pero creo que es un parteaguas muy singular,  porque no solo donde empieza a ponerse m\u00e1s atenci\u00f3n en las custiones de seguridad",
+            "thumbnail": "../files/2016/11/Javier-Pulido-Osta.png"
+        },
+        {
+            "start": "2260",
+            "description": "Maria Perez Actualmente la gente ya no cumple con sus pagos en los organismos operador porque no tiene agua",
+            "thumbnail": "../files/2016/11/Maria-Perez.png"
+        },
+        {
+            "start": "5062",
+            "description": "Lorenzo Bozada Osea, ninguna industria puede eliminar otra industria. Y en ese caso, por ejemplo, Petr\u00f3leos Mexicanos est\u00e1 obsesionado en eliminar a la industria pesquera de toda la regi\u00f3n",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5235",
+            "description": "Lorenzo Bozadaz En nuestro pa\u00eds no tenemos la capacidad. Y los que aceptan los datos, los an\u00e1lisis, normalmente van y los lapicean. No pasa nada, tienen nada",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "5764",
+            "description": "Lorenzo Bozada Ten\u00edamos los incendios all\u00e1 en Coatzacoalcos. Entonces enga\u00f1aban al gobernador: \u201cno, ya controlamos todo\u201d",
+            "thumbnail": "../files/2016/11/Lorenzo-Bozada.png"
+        },
+        {
+            "start": "7614",
+            "description": "Xochitl Cisneros No est\u00e1mos muy bien enterados pero han habido casos de personas que han muerto, que han muerto de c\u00e1ncer, que han tenido leucemias, ",
+            "thumbnail": "../files/2016/11/Xochitl-Cisneros.png"
+        },
+        {
+            "start": "8244",
+            "description": "Fernado Casta\u00f1on  acud\u00ed al hospital de PEMEX, nadie supo \u00bfeh? no tienen idea de cu\u00e1ntos pacientes de c\u00e1ncer tienen, infantil nadie, no sabe, el onc\u00f3logo que estaba ya se fue, el doctor Mej\u00eda ya no hay, onc\u00f3logo pedi\u00e1\u2026 onc\u00f3logo no onc\u00f3logo pediatra ya no hay ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        },
+        {
+            "start": "8288",
+            "description": "Fernado Casta\u00f1on   2010 se presentaron 6 casos de leucemia, 2011 8 casos, 2012 8 casos, 2013 llevamos 13 casos \u00bfs\u00ed?, algo est\u00e1 pasando ",
+            "thumbnail": "../files/2016/11/Fernado-Castann%CC%83on-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

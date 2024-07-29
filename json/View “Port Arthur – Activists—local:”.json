@@ -1,0 +1,70 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "1400",
+            "description": "\u201cHilton Kelley, grew up in Port Arthur; how from 2000 he came to work in the environmental justice field; activist leader of CIDA\u201d\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3002",
+            "description": "Hilton Kelley remember early times in Port Arthur; what we\u2019ve lost; white flight and emergence of divides in the community\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3002",
+            "description": "Hilton Kelley remember early times in Port Arthur; what we\u2019ve lost; white flight and emergence of divides in the community\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3180",
+            "description": "\u201cHilton Kelley on fight for cleaner air and a better environment, safer community\u201d\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3271",
+            "description": "Hilton Kelley on the push to stop Motiva expansion; settlement negotiated\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3853",
+            "description": "\u201cHilton Kelley on how Port Arthur has put too many of its eggs in an \u201c\u201doil\u201d\u201d basket; \u201c\u201dwhy can\u2019t we have a solar plant here?\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "4322",
+            "description": "Hilton Kelley on the difficulties but promise of drawing jobs and industry in shipping\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "4651",
+            "description": "Interchange between Mickey Breaux and Hilton Kelley on global markets as they impacted Port Arthur\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "7743",
+            "description": "Hilton Kelley on his serving on EPA\u2019s national environmental justice advisory panel; how Port Arthur featured 2010-12 as a showcase community project; Mayor Prince heavily involved\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7857",
+            "description": "Hilton Kelley and Carolyn Thibodeaux on current effort to appoint an Exxon Mobil exec as head of EPA\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7987",
+            "description": "Hilton Kelley and Mickey Breaux on how both EPA\u2019s and OSHA\u2019s hands tied in Bush administration\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

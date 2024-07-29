@@ -1,0 +1,80 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "3111",
+            "description": "Luz Helena San\u00edn sobre la falta de estudios durante el funcionamiento de la planta a pesar de un estudio realizado en 1973 por Landrigan de una fundici\u00f3n similar de ASARCO.",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "4201",
+            "description": "Luis Oscar Rodr\u00edguez y Luz Helena San\u00edn: como la compa\u00f1\u00eda no llevaba un record de la contaminaci\u00f3n de los ni\u00f1os en los vecindarios.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4251",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cveo que a los lados de la carretera Ju\u00e1rez hay material que saca en la planta para bachear\u2026eso es una propiciaci\u00f3n para llevar el pro el problema m\u00e1s all\u00e1.\u201d",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "4307",
+            "description": "Luis Oscar Rodr\u00edguez: Ahora toda la planta est\u00e1 contaminada\u2026cuando se mencion\u00f3 que iban a traer al zool\u00f3gico de Serengeti pues desgraciados\u2026\u201d",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4828",
+            "description": "Ernesto Martinez sobre \u201ctemporales,\u201d los pozos de la empresa y su contaminacion, tambi\u00e9n de la leche de pastizales alrededor.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4897",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez y Manuel Roberto Olivos sobre los pozos de la planta.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "8006",
+            "description": "Despues de o\u00edr hablar de El Paso, Jes\u00fas Antonio Soto reflecta que en Estados Unidos habia mas posibilidades de trabajo que en Chihuahua; consecuencias; c\u00f3mo aparecieron los trabajadores despu\u00e9s de trabajar en la casa de sacos.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8114",
+            "description": "Luis Santacruz Aranda: los comentarios favorables no quiere decir que haya trabajdores or ex-trabajadores con otras experiencias; \u201cno quiere decir que la planta haya sido un paraiso\u2026\u201d",
+            "thumbnail": "../files/2015/08/Manuel-Roberto-Olivos.png"
+        },
+        {
+            "start": "8340",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez: \u201cera una planta peligrosa\u201d; explicacion.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "8635",
+            "description": "Daniel Lopez sobre su padre, trabajador y fumador, que muri\u00f3 de cancer pulmonar al la edad de 50 a\u00f1os.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8679",
+            "description": "Luz Helena San\u00edn reconoce los beneficios ofrecido por la planta; pregunta sobre el regimen de atenci\u00f3n por los ni\u00f1os, los m\u00e1s vulnerables al plomo.",
+            "thumbnail": "../files/2015/08/Daniel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "9553",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201chubo corrupci\u00f3n en ciertas epocas, cosas de incapacidad y todo eso pero esa empresa fue de todos riesgos..\u201d; muchos accidentes fatales; \u201cel sindicato siempre presionaba a la empresa para que corrigiera toda la contaminaci\u00f3n, en todos los accidentes\u2026\u201d",
+            "thumbnail": "../files/2015/08/Luz-Helena-Sani%CC%81n.png"
+        },
+        {
+            "start": "10791",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201cNo crean que estamos en contra de ustedes\u201d: \u201cdesgraciadamente se han muerto muchas familias por la contaminaci\u00f3n de la planta\u2026\u201d",
+            "thumbnail": "../files/2015/08/Ezequiel-Lo%CC%81pez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

@@ -1,0 +1,55 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "336",
+            "description": "\u201cTiffany Hamilton, Councilwoman for the City of Port Arthur\u201d\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "3462",
+            "description": "\u201cTiffany Hamilton on the the industrial agreements between the city of Port Arthur and local companies have been updated to have \u201c\u201dmore meat to  the contracts\u201d\u201d; hoping to make the community\u2019s voice stronger in these relationships\u201d\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "3760",
+            "description": "\u201cTiffany Hamilton on the pressures she faced to move away from Port Arthur to be \u201c\u201dsuccessful\u201d\u201d; seeing city\u2019s decline but wanting her city to grow\u201d\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "4088",
+            "description": "Tiffany Hamilton on attracting new businesses\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "4359",
+            "description": "Tiffany Hamilton on the harbor improvement project; official Coast Guard station\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "7238",
+            "description": "\u201cTiffany Hamilton on \u201c\u201dnot all the time do I think negative when I see a smokestack or a ship pass by on the other side, we definitely have to hold the industry accountable\u201d\u201d; also individuals\u201d\n",
+            "thumbnail": "../files/2020/01/Tiffany-Hamilton.png"
+        },
+        {
+            "start": "7385",
+            "description": "\u201cBobbie Prince, Mayor of Port Arthur (arrived near end), tells of how industry here was important to her family\u2019s arrival in PA but those in power forgot about holding them responsible for helping us overcome obstacles the environment\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Bobbie-Prince.png"
+        },
+        {
+            "start": "8153",
+            "description": "\u201cBobbie Prince on a Port Arthur Industrial Group that\u2019s \u201c\u201dhighly involved with the school system here in the city of Port Arthur\u201d\u201d\u201d\n",
+            "thumbnail": "../files/2020/01/Bobbie-Prince.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

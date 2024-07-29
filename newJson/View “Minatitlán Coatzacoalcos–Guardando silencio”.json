@@ -1,0 +1,25 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "1204",
+            "description": "Georgina Figueroa mi \u00e1rea de trabajo era la revisi\u00f3n precisamente de todas las empresas que pertenec\u00edan a la zona de occidente, cumplieran todos sus requisitos tanto ambientales como en materia de seguridad. Requisitos que ya exist\u00edan desde tiempo atr\u00e1s, pero que sin embargo no eran tan revisados tan al detalle  como se deber\u00eda, tanto en material de seguridad para el propio trabajador de PEMEX, como en materia ambiental para la revisi\u00f3n de los impactos que se pudieran generar alrededor",
+            "thumbnail": "../files/2016/11/Georgina-Figueroa-.png"
+        },
+        {
+            "start": "1404",
+            "description": "Georgina Figueroa el d\u00eda de hoy de que se han puesto muchas salvaguardas en una de estas \u00e1reas de la empresa, y desde mi punto de vista yo considero que Petr\u00f3leos Mexicanos es una empresa segura",
+            "thumbnail": "../files/2016/11/Georgina-Figueroa-.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

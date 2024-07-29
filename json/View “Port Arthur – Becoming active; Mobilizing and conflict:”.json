@@ -1,0 +1,70 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "EvKNG0SXdGI",
+    "startTimes": [
+        {
+            "start": "1954",
+            "description": "Les McMahon: occasional strikes early on\n",
+            "thumbnail": "../files/2020/01/Les-Mahon.png"
+        },
+        {
+            "start": "2023",
+            "description": "\u201cElton Gish summarizes his experience in the Texaco refinery; the smells and pollution there, also srikes\u201d\n",
+            "thumbnail": "../files/2020/01/Elton-Gish.png"
+        },
+        {
+            "start": "2382",
+            "description": "\u201cMickey Breaux on the success and growth of oil jobs and unions in the 1950s and 60s; follow ed by downsizing and layoffs, in the course of modernizing\u201d\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "2744",
+            "description": "Mickey Breaux on his experiences with steel workers union\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "3002",
+            "description": "Hilton Kelley remember early times in Port Arthur; what we\u2019ve lost; white flight and emergence of divides in the community\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3180",
+            "description": "\u201cHilton Kelley on fight for cleaner air and a better environment, safer community\u201d\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3271",
+            "description": "Hilton Kelley on the push to stop Motiva expansion; settlement negotiated\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "3368",
+            "description": "Mickey Breaux on how sulfur recovery plants to reduce emissions now actually make money\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        },
+        {
+            "start": "4753",
+            "description": "\u201cRichard \u201cHoot\u201d Landry on companies\u2019 fault for Port Arthur\u2019s economic troubles; going back to 80s layoffs and rise of contracting\u201d\n",
+            "thumbnail": "../files/2020/01/Richard-Landry.png"
+        },
+        {
+            "start": "7743",
+            "description": "Hilton Kelley on his serving on EPA\u2019s national environmental justice advisory panel; how Port Arthur featured 2010-12 as a showcase community project; Mayor Prince heavily involved\n",
+            "thumbnail": "../files/2020/01/Hilton-Kelley.png"
+        },
+        {
+            "start": "7951",
+            "description": "Mickey Breaux on how he was active in 1980 in both environmental and labor issues\n",
+            "thumbnail": "../files/2020/01/Mickey-Breaux.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

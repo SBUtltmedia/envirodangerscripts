@@ -1,0 +1,65 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "2206",
+            "description": "Arturo Lim\u00f3n sobre la contaminacion de Avalos; algunas de sus experiencias como ecologista.",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "2255",
+            "description": "Arturo Lim\u00f3n: \u201cel problema medio ambiental es lo m\u00e1s democr\u00e1tico que suele haber en este pa\u00eds\u201d por que golpea a todas las personas, la gerente y los trabajadores.",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "2292",
+            "description": "Arturo Lim\u00f3n: los investigadores \u201creportan eh que s\u00ed hay problema [en Avalos] y eso est\u00e1 m\u00e1s all\u00e1 de la subjetividad\u2026\u201d",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "2350",
+            "description": "Arturo Lim\u00f3n sobre la necesidad de considerar no s\u00f3lo la econom\u00eda, sino el bienestar de los ciudadanos.",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "2381",
+            "description": "Arturo Lim\u00f3n sobre c\u00f3mo recomend\u00f3 salvaguardando la zona Avalos a finales de 1980.",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "2513",
+            "description": "Arturo Lim\u00f3n sobre su participaci\u00f3n en un esfuerzo por limpiar la contaminaci\u00f3n de la ci\u00e9naga del Sacramento; la importancia de la aplicaci\u00f3n de presi\u00f3n sobre el gobierno.",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "5551",
+            "description": "Arturo Lim\u00f3n cuenta una historia sobre Castro, que \u201cel sol con toda su grandeza tambien tiene manchas\u201d; otra historia sobre un trabajador en un mina; los beneficios de una industria \u201cno nos priva de los impactos ambientales.\u201d",
+            "thumbnail": "../files/2015/08/Arturo-Limo%CC%81n.png"
+        },
+        {
+            "start": "8613",
+            "description": "Daniel Lopez explica que muchos de estos beneficios \u201cfueron conquistas sindicales.\u201d",
+            "thumbnail": "../files/2015/08/Daniel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "9121",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez, Ernesto Martinez y Luis Oscar Rodr\u00edguez Andriani discutan los roles del seguro social, del sindicato, y de la empresa en los servicios de salud.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "9553",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201chubo corrupci\u00f3n en ciertas epocas, cosas de incapacidad y todo eso pero esa empresa fue de todos riesgos..\u201d; muchos accidentes fatales; \u201cel sindicato siempre presionaba a la empresa para que corrigiera toda la contaminaci\u00f3n, en todos los accidentes\u2026\u201d",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

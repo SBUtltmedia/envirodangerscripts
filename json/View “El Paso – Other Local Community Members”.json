@@ -1,0 +1,70 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "4605",
+            "description": "Catherine Shupe on growing up in the American colony in Avalos.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "4818",
+            "description": "Juan Garza on ASARCO\u2019s startup and malfunction events; how health dept handled.",
+            "thumbnail": "../files/2015/03/Juan-Garza.png"
+        },
+        {
+            "start": "7383",
+            "description": "Catherine Shupe on Alzheimer\u2019s in her family.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7502",
+            "description": "Catherine Wilson-Shupe, Jorge Villalobos, Joe Pi\u00f1on, Jose Manuel Escobedo, and Mario Navarez on company and others such as Landrigan who knew, came to know about lead\u2019s dangers early on.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "7538",
+            "description": "Joe Pi\u00f1on, Chris Sellers, Bill Addington on what\u2019s \u201cacceptable\u201d for lead exposures in children today.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "7406",
+            "description": "Vivian Russell on her suspicions about corrosive film on vehicles, \u201cStar Wars\u201d gear, removal of houses.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "8105",
+            "description": "Juan Garza on how he first got to know about lead hazards in EPA sponsored community meetings.",
+            "thumbnail": "../files/2015/08/Jose-Manuel-Escobedo.png"
+        },
+        {
+            "start": "8170",
+            "description": "Juan Garza on rise of EPA and local Health Dept efforts to address lead in the neighborhoods.",
+            "thumbnail": "../files/2015/08/Mario-Navarez.png"
+        },
+        {
+            "start": "8415",
+            "description": "Juan Garza on Get the Lead Out\u2019s effort to get Health Dept testing in homes, unreleased results.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "9619",
+            "description": "Catherine Wilson-Shupe on where workers versus managers lived around the Chihuahua smelter, on playing at the slag dump.",
+            "thumbnail": "../files/2015/03/Chris-Sellers.png"
+        },
+        {
+            "start": "9694",
+            "description": "Charlie Rodriguez, Catherine Wilson-Shupe, and Jorge Villalobos on water pollution and use by smelters they know.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

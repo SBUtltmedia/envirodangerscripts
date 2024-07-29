@@ -1,0 +1,50 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "pxnaiUXYtEc",
+    "startTimes": [
+        {
+            "start": "6596",
+            "description": "Bill Addington and Jorge Villalobos discuss what was known when, what came to be known in 2000s, about the hazardous waste shipments to the ASARCO plant.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        },
+        {
+            "start": "6900",
+            "description": "Bill Addington on current issues over redevelopment of the site; questions of responsibility for its contamination.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "7502",
+            "description": "Catherine Wilson-Shupe, Jorge Villalobos, Joe Pi\u00f1on, Jose Manuel Escobedo, and Mario Navarez on company and others such as Landrigan who knew, came to know about lead\u2019s dangers early on.",
+            "thumbnail": "../files/2015/03/Bill-Addington.png"
+        },
+        {
+            "start": "7538",
+            "description": "Joe Pi\u00f1on, Chris Sellers, Bill Addington on what\u2019s \u201cacceptable\u201d for lead exposures in children today.",
+            "thumbnail": "../files/2015/03/Catherine-Wilson-Shupe.png"
+        },
+        {
+            "start": "8105",
+            "description": "Juan Garza on how he first got to know about lead hazards in EPA sponsored community meetings.",
+            "thumbnail": "../files/2015/03/Jorge-Villalobos.png"
+        },
+        {
+            "start": "8170",
+            "description": "Juan Garza on rise of EPA and local Health Dept efforts to address lead in the neighborhoods.",
+            "thumbnail": "../files/2015/03/Joe-Pin%CC%83on.png"
+        },
+        {
+            "start": "8415",
+            "description": "Juan Garza on Get the Lead Out\u2019s effort to get Health Dept testing in homes, unreleased results.",
+            "thumbnail": "../files/2015/08/Jose-Manuel-Escobedo.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

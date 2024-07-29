@@ -1,0 +1,30 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "vZN9LS3h3h4",
+    "startTimes": [
+        {
+            "start": "9401",
+            "description": "Rogelio Gil  siempre he dicho en un caf\u00e9 que las realidades que necesitamos en el pa\u00eds de tres palabras, una de ellas primero que nada es la honestidad",
+            "thumbnail": "../files/2016/11/Rogelio-Gil-.png"
+        },
+        {
+            "start": "5583",
+            "description": "Artemio Lopez estamos al norte, Minatitl\u00e1n tiene contaminaci\u00f3n al norte, al oriente, al poniente y al sur. Los arroyos de aguas natirale solamente existe uno vivo en Minatitl\u00e1n, de los m\u00e1s de 40. Y ese chorrito donde usted puede ir y ver c\u00f3mo la gente llega con sus 10 yhasta 20 garrafones para llenar de agua",
+            "thumbnail": "../files/2016/11/Artemio-Lopez.png"
+        },
+        {
+            "start": "5689",
+            "description": "Artemio Lopez Cada mes se hace un eveno llamado Mercado del Trueque, donde todav\u00eda no hemos podido, no hemos podido capitalizar el aceite quemado de autos",
+            "thumbnail": "../files/2016/11/Artemio-Lopez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

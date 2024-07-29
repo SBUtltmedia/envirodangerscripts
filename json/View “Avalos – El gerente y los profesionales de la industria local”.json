@@ -1,0 +1,145 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "4057",
+            "description": "Luis Oscar Rodr\u00edguez sobre como la compa\u00f1\u00eda \u201cde siempre tuvo inter\u00e9s por la seguridad de los trabajadores.\u201d",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4112",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cmucho de [los trabajadores] que llegaron a presentar s\u00edntomas de \u2026plomo\u2026lo malo, eran porque no se lavaban las manos,\u201d etc.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4148",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cLuego, no fue nunca a los niveles que estan escuchando\u201d; el monitoreo de las \u00e1reas en las que pod\u00eda haber m\u00e1s plomo, los trabajodores que pod\u00edan presentar s\u00edntomas.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4251",
+            "description": "Luis Oscar Rodr\u00edguez: \u201cveo que a los lados de la carretera Ju\u00e1rez hay material que saca en la planta para bachear\u2026eso es una propiciaci\u00f3n para llevar el pro el problema m\u00e1s all\u00e1.\u201d",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4278",
+            "description": "Luis Oscar Rodr\u00edguez: Santa Barbara tiene muchos m\u00e1s jales; sus methodos.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4307",
+            "description": "Luis Oscar Rodr\u00edguez: :Ahora toda la planta est\u00e1 contaminada\u2026cuando se mencion\u00f3 que iban a traer al zool\u00f3gico de Serengeti pues desgraciados\u2026\u201d",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4345",
+            "description": "Luis Oscar Rodr\u00edguez sobre una campa\u00f1a (de la compa\u00f1\u00eda) a juntar 60.000 toneladas que le denominamos barreduras.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "4575",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre la importancia del proyecto Avalos para revitalizar el sitio.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4610",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez viv\u00ed en la colonia 600 metros de la chiminea; ejemplo \u201cmuy significativo\u201d de un trabajador Rafael Ramos que \u201cdur\u00f3 40 a\u00f1os\u201d en la casa de sacos, trabajo con muchos expuestos toxicos.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4713",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez pide m\u00e1s pruebas de la contaminaci\u00f3n y sus efectos.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4745",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre el equipo y el an\u00e1lisis en la planta para proteger oficinistas tambi\u00e9n; \u201cCu\u00e1ntas veces jugamos nosotros ah\u00ed [en los campos deportivos], pos no no nos ca\u00edmos por la contaminaci\u00f3n\u201d.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4897",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez y Manuel Roberto Olivos sobre los pozos de la planta.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "4929",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez: a pesar de la contaminaci\u00f3n \u201cvivimos todos [en la vejez], yo estuve con los americanos y muy cercano a los americanos. \u00bfUstedes creen que no hac\u00edan este tipo de de an\u00e1lisis? \u201c.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "5057",
+            "description": "Luis Oscar Rodr\u00edguez explica lo que sal\u00eda de las chimeneas.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "5086",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre donde se inici\u00f3 la primera fundici\u00f3n aqu\u00ed en Chihuahua.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "6164",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre el orgullo para los papas poder meter a sus hijos; que la empresa pagaba el seguro social para toda la familia, y \u201cporque se hizo, la de santa rita si esta tan tremendamente contaminado.\u201d",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8307",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre las clinicas en la planta y alrededor; relaciones con el seguro social.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8340",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez: \u201cera una planta peligrosa\u201d; explicacion.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8482",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre un episodo cuando un reportaje de \u201cla otra cara de ASARCO,\u201d sobre las condicciones en la colonia mexicana en Avalos, \u201cse movia mucho\u201d.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "8798",
+            "description": "Daniel Lopez, Jesus Antonio Soto, Ernesto Mart\u00ednez y Luis Oscar Rodr\u00edguez sobre los incios y los beneficios de los servicios del transporte.",
+            "thumbnail": "../files/2015/08/Daniel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "9085",
+            "description": "Luis Oscar Rodr\u00edguez sobre la differencia entre el salario minimo en la planta de Avalos y en Chihuahua.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "9121",
+            "description": "Carlos Manuel Zald\u00edvar, Ernesto Mart\u00ednez y Luis Oscar Rodr\u00edguez discutan los roles del seguro social, del sindicato, y de la empresa en los servicios de salud.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "9291",
+            "description": "Luis Oscar Rodr\u00edguez y Ernesto Mart\u00ednez responden a una pregunta de Santiago si el n\u00famero de incapacitados subi\u00f3 mucho.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "9698",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez: \u201cNo tenia mucho peso el sindicato\u201d; otros beneficios en la colonia Americana.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        },
+        {
+            "start": "9803",
+            "description": "Edna Rico y Carlos Manuel Zald\u00edvar P\u00e9rezsobre el comedor en la planta.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "9896",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez sobre \u201cla frontera\u201d entre Avalos con todo sus beneficios y Villa Ju\u00e1rez; tambien es el nombre de una cantina.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

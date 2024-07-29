@@ -1,0 +1,20 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "10660",
+            "description": "Discussion sobre porque fueron los campesinos dejando de sembrar; con Luis Oscar Rodr\u00edguez, Ernesto Mart\u00ednez, Manuel Roberto Olivos.",
+            "thumbnail": "../files/2015/08/Luis-Oscar-Rodri%CC%81guez-Andriani.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+

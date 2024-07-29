@@ -1,0 +1,135 @@
+
+[wpcode id="5382"]
+<div id="player"></div>
+<div class="table"></div>
+<script>
+
+data={
+    "ytID": "-EPT6jQemn8",
+    "startTimes": [
+        {
+            "start": "1889",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez sobre la historia de la planta de zinc.",
+            "thumbnail": "../files/2015/08/Ezequiel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "1920",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201cA m\u00ed me cans\u00e9 creo que alguien dijo que nuestros hijos o a en Rancher\u00edas, hay unos contaminados por plomo\u201d; otro sobre tratamiento de plomo en la sangre de los trabajadores; quando las familias de Villa Ju\u00e1rez fueron las que empezaron a protestar que sus familias estaban contaminadas de zinc; porque la planta cerrada.",
+            "thumbnail": "../files/2015/08/Ezequiel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "3787",
+            "description": "Jes\u00fas Antonio Soto sobre la principios previsi\u00f3n de la contaminaci\u00f3n por la empresa, por qu\u00e9 compraron la tierra circundante.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "3809",
+            "description": "Jes\u00fas Antonio Soto: \u201cyo no tengo esa contaminaci\u00f3n\u2026\u201d",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "3821",
+            "description": "Jes\u00fas Antonio Soto sobre la gente que \u201cse quiso meter que estaban emplomados para sacarle un dinero a la empresa\u201d; cuando la empresa fue cerrando, trat\u00f3 de comprar, porque quer\u00edan ser indemnizado; 1990 o 1989.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "3960",
+            "description": "Jes\u00fas Antonio Soto: \u201cestoy muy orgulloso de vivir\u2026aqu\u00ed, a mi me toc\u00f3 \u00c1valos en su apojeo.\u201d",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4033",
+            "description": "Jes\u00fas Antonio Soto: \u201cme da tristeza ahora que se diga, \u00c1valos es..algo feo para la comunidad..\u201d",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "4828",
+            "description": "Ernesto Martinez sobre \u201ctemporales,\u201d los pozos de la empresa y su contaminacion, tambi\u00e9n de la leche de pastizales alrededor.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "4897",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez y Manuel Roberto Olivos sobre los pozos de la planta.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "5812",
+            "description": "Luis Guillermo Maldonado Ortega: \u201cnosotros respetamos sus estudios, sus conocimientos y todo pero, tambien no satanizar de mas porque asi como que se estan yendo unos porcentajes muy altos de contaminacion\u2026pero no se puede decir que sean una cosa fatal\u201d.",
+            "thumbnail": "../files/2015/08/Manuel-Roberto-Olivos.png"
+        },
+        {
+            "start": "5868",
+            "description": "Ernest Martinez no quiere \u201cdefender a la empresa o atacaros a ustedes de ninguna manera\u201d pero \u201cporque hay personas de 90 a\u00f1os y hasta de 93 sobrevivientes gente que trabaj\u00f3 precisamente asi como el o como ellos\u2026\u201d",
+            "thumbnail": "../files/2015/08/Luis-Guillermo-Maldonado-Ortega.png"
+        },
+        {
+            "start": "5996",
+            "description": "Jes\u00fas Antonio Soto cuenta mas sobre los puntos de muestro de la empresa, tambien el gobierno, \u201cy pues all\u00ed va si estaba muy alta la contaminaci\u00f3n, pues los multaban entonces tambien la empresa pues decia no pues una multa muy buena que les ponian\u2026\u201d; la variedad de respuestas a la contaminaci\u00f3n.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "",
+            "description": "Despues de o\u00edr hablar de El Paso, Jes\u00fas Antonio Soto reflecta que en Estados Unidos habia mas posibilidades de trabajo que en Chihuahua; consecuencias; como c\u00f3mo aparecieron los trabajadores despu\u00e9s de trabajar en la casa de sacos.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "8114",
+            "description": "Luis Santacruz Aranda: los comentarios favorables no quiere decir que haya trabajdores or ex-trabajadores con otras experiencias; \u201cno quiere decir que la planta haya sido un paraiso\u2026\u201d",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "8235",
+            "description": "Luis Guillermo Maldonado Ortega sobre los beneficios de la planta por la salud, medicina.",
+            "thumbnail": "../files/2015/08/Luis-Guillermo-Maldonado-Ortega.png"
+        },
+        {
+            "start": "8387",
+            "description": "Ernesto Mart\u00ednez sobre cuando se inici\u00f3 el regimen de labor social en 1962.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "8420",
+            "description": "Ernesto Mart\u00ednez, Jes\u00fas Antonio Soto, y Luis Guillermo Maldonado Ortega sobre cuando se perdieron los beneficios de vivienda, del 1972 mas o menos.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "8566",
+            "description": "Ernesto Mart\u00ednez, Carlos Manuel Zald\u00edvar P\u00e9rez, sobre como \u201cla empresa nos facilitaba el transporte\u201d.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        },
+        {
+            "start": "8613",
+            "description": "Daniel Lopez explica que muchos de estos beneficios \u201cfueron conquistas sindicales\u201d.",
+            "thumbnail": "../files/2015/08/Luis-Guillermo-Maldonado-Ortega.png"
+        },
+        {
+            "start": "8798",
+            "description": "Daniel Lopez, Jesus Antonio Soto, Ernesto Mart\u00ednez y Luis Oscar Rodr\u00edguez sobre los incios y los beneficios de los servicios del transporte.",
+            "thumbnail": "../files/2015/08/Ernesto-Martinez.png"
+        },
+        {
+            "start": "9121",
+            "description": "Carlos Manuel Zald\u00edvar P\u00e9rez, Ernesto Mart\u00ednez y Luis Oscar Rodr\u00edguez discutan los roles del seguro social, del sindicato, y de la empresa en los servicios de salud.",
+            "thumbnail": "../files/2015/08/Carlos-Manuel-Zaldi%CC%81var-Pe%CC%81rez.png"
+        },
+        {
+            "start": "9291",
+            "description": "Luis Oscar Rodr\u00edguez y Ernesto Mart\u00ednez responden a una pregunta de Santiago si el n\u00famero de incapacitados subi\u00f3 mucho.",
+            "thumbnail": "../files/2015/08/Daniel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "9553",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez: \u201chubo corrupci\u00f3n en ciertas epocas, cosas de incapacidad y todo eso pero esa empresa fue de todos riesgos..\u201d; muchos accidentes fatales; \u201cel sindicato siempre presionaba a la empresa para que corrigiera toda la contaminaci\u00f3n, en todos los accidentes\u2026\u201d",
+            "thumbnail": "../files/2015/08/Daniel-Lo%CC%81pez.png"
+        },
+        {
+            "start": "9642",
+            "description": "Ezequiel L\u00f3pez Gonz\u00e1lez y Ernesto Mart\u00ednez recordan una mejora en las condicciones de la planta pero \u201cdesde que entro el seguro social hasta que cerr\u00f3 la planta\u201d.",
+            "thumbnail": "../files/2015/08/Jesus-Antonio-Soto.png"
+        }
+    ]
+}
+
+loadSeminarYT(data.ytID,data.startTimes)
+</script>
+
